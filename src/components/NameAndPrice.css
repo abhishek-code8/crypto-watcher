@@ -1,0 +1,17 @@
+.key-value-pair {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  
+  .key {
+    font-weight: bold;
+    margin-right: 8px;
+  }
+  
+  .value {
+    background-color: #f5f5f5;
+    padding: 8px;
+    border-radius: 4px;
+  }
+  
